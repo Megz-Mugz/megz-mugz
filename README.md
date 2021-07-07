@@ -1,6 +1,5 @@
 Heyyy Welcome to My Github 👋 
 
-🔥 just a kid who likes tech 🔥 
 
 Skills Include: 
 1) iOS development using swift
