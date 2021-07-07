@@ -1,8 +1,8 @@
-### Hi there 👋
+Heyyy Welcome to My Github 👋 
 
 🔥 just a kid who likes tech 🔥 
 
-Skills Include:
+Skills Include: 
 1) iOS development using swift
 2) Python for data science & some machine learning
 3) Some web development (html & css)
