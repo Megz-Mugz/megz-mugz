@@ -5,7 +5,7 @@ Skills Include:
 1) iOS development using swift
 2) Python for data science & some machine learning
 3) Some web development (html & css)
-4) Some java development
+4) Some Java & C++
 
 Currently Learning: 
 - iOS development using Angela Yu's udemy course
