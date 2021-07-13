@@ -12,7 +12,7 @@ Currently Learning:
 
 Planning to Learn:
 - web development using Angela Yu's udemy course
-- further knowledge in java
+- further knowledge in java & c++
 
 feel free to email me @ rohan.mengle123@gmail.com
 
