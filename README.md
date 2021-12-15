@@ -1,18 +1,18 @@
-Heyyy Welcome to My Github 👋 
+Hello! Welcome to My Github 👋 
 
 
 Skills Include: 
-1) iOS development using swift
-2) Python for data science & some machine learning
-3) Some web development (html & css)
-4) Some Java & C++
+1) Full stack web development
+2) Python for data science 
+3) Some Java & C++
+4) Some iOS development
 
 Currently Learning: 
-- iOS development using Angela Yu's udemy course
+- Web development using Angela Yu's udemy course
 
 Planning to Learn:
-- web development using Angela Yu's udemy course
-- further knowledge in java & c++
+- Android Development
+- More Java & C++
 
 feel free to email me @ rohan.mengle123@gmail.com
 
