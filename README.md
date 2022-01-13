@@ -14,9 +14,6 @@ Planning to Learn:
 - Android Development
 - More Java & C++
 
-feel free to email me @ rohan.mengle123@gmail.com
-
-
 <!--
 **megz-mugz/megz-mugz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
