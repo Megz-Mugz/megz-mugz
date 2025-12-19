@@ -1,3 +1,5 @@
-Hello! 
 
-I'm a software engineer with industry experience working on Ruby on Rails applications. Beyond Rails & web development, I am exploring C++ and building projects that intersect between my main CS intersts like Operating Systems, Compilers, Networking and financial trading. 
+
+Hello, I'm MegzMugz, I'm a researcher and software engineer currently interested in between the intersection of compilers and system reliability. 
+
+My personal and professional portfolio spans enterprise web applications using Ruby on Rails, and more recently C++ and GPU programming related work. Check out my pinned repos to see the work I'm most proud of. 
