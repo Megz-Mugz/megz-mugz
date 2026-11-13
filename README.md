@@ -9,5 +9,5 @@
 </p>
 
 <p align="center">
-  <a href="mailto:rmengle@gmu.edu">rmengle@gmu.edu</a>
+  <a href="mailto:rmengle@gmu.edu">Feel free to contact me at: rmengle@gmu.edu</a>
 </p>
