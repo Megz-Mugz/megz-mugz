@@ -1,9 +1,13 @@
-<h1>Rohan Mengle</h1>
+<h1 align="center">Rohan Mengle</h1>
 
-<p>M.S. student in Computer Science · George Mason University</p>
+<p align="center">
+  M.S. student in Computer Science · George Mason University
+</p>
 
-<p>Compilers · Computer Architecture · High-Performance Computing</p>
+<p align="center">
+  Compilers · Computer Architecture · High-Performance Computing
+</p>
 
-<p>
+<p align="center">
   Feel free to contact me at: <a href="mailto:rmengle@gmu.edu">rmengle@gmu.edu</a>
 </p>
